@@ -28,7 +28,7 @@ Mongoose\
 CORS\
 Nodemon\
 Dotenv\
-Concurrently\
+Concurrently
 
 # Frontend NPM INSTALLS
 Axios\
@@ -36,4 +36,4 @@ Styled-components\
 Redux\
 React-Redux\
 Thunk\
-Cmposite-devtools\
+Cmposite-devtools
