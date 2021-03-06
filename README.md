@@ -16,3 +16,24 @@ To display users details in cards using Grid layout
 #
 Users data stored in database using mongoDB. If we click GET USERS button it requests api call and will render the received data into cards and if we need data from another page 
 we can click on NEXT button data will change and render the dom and updates the UI cards.
+
+# Installation
+
+git Clone "url"\
+npm install\
+
+# Backend NPM INSTALLS
+Express\
+Mongoose\
+CORS\
+Nodemon\
+Dotenv\
+Concurrently\
+
+# Frontend NPM INSTALLS
+Axios\
+Styled-components\
+Redux\
+React-Redux\
+Thunk\
+Cmposite-devtools\
