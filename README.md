@@ -20,7 +20,7 @@ we can click on NEXT button data will change and render the dom and updates the 
 # Installation
 
 git Clone "url"\
-npm install\
+npm install
 
 # Backend NPM INSTALLS
 Express\
