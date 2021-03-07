@@ -70,7 +70,7 @@ function Navbar() {
     <>
       <NavBar>
         <Logo src="https://www.stylex.in/img/logo.png" />
-        <Button onClick={handleData}>Get Users Data</Button>
+        <Button onClick={handleData}>Get Users</Button>
       </NavBar>
       <Wrapper>
         {isLoading ? <Loader /> : null}
